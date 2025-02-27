@@ -115,5 +115,5 @@ chmod +x setup.sh
 - 🌍 Enhancing the dataset with real-time movie ratings and reviews.
 - ☁️ Deploying the model on cloud platforms for wider accessibility.
 
----
+
 
