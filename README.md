@@ -37,7 +37,7 @@ This project is a **Streamlit web application** that recommends similar movies b
 3. 🏆 The similarity score ranges from 0 to 1:
    - ❌ **0**: Completely dissimilar.
    - ✅ **1**: Identical.
-4. 🔗 More details: [Cosine Similarity Explanation](https://www.learndatasci.com/glossary/cosine-similarity/)
+4. 🔗 For more details , check URL : https://www.learndatasci.com/glossary/cosine-similarity/
 
 ## 🚀 How to Run the Project
 ### 📌 Steps to Set Up and Run the Application
